@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "sgp4.bytenut.cc",
+    "port": 33121,
     "version": "1.20.1",
     "try-creative": false
   },
